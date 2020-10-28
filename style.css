@@ -1,0 +1,20 @@
+.timer {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+.field {
+  width: 125px;
+  height: 125px;
+  margin: 15px;
+  position: relative;
+  top: 250px;
+  bottom: 250px;
+}
+.value {
+  font-family: Roboto;
+  font-size: 100px;
+  line-height: 30px;
+  line-height: 30px;
+  outline: 2px solid black;
+}
